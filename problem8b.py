@@ -3,7 +3,7 @@ import random
 #maybe a problem with flags EF/EFX or calculating the evaluation matrices
 
 #change instances accordingly (put 10000)
-instances=1
+instances=10000
 count_ef=0
 count_efx=0
 
